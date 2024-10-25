@@ -125,3 +125,19 @@ CREATE TABLE ventas (
 );
 
 ```
+Hecho por (jhorman jesus castellanos morales )
+
+> [!NOTE]
+> complicaciones 
+
+> [!TIP]
+> 
+
+> [!IMPORTANT]  
+> se encuntra culminado 
+
+> [!WARNING]  
+> 
+
+> [!CAUTION]
+>
